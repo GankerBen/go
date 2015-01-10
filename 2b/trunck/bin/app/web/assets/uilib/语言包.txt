@@ -1,0 +1,100 @@
+房间号 + Room number 
+用户名 +User Name
+请选择房间号！+Please select the room number!
+1.使用摄像头发言  + Use the camera to speak 
+白色：启用视频    + White: Enable video 
+红色：禁止视频    + Red: Disable Video 
+进入全屏          + Enter fullscreen 
+退出全屏          + Exit Full Screen
+关闭              + close
+发言申请发送成功！+Speech application sent successfully!
+您确定要关闭发言吗？ + Are you sure you want to close the floor?
+您已经申请过了，请耐心等待！+You already requested, please be patient!
+您想要邀请  发言吗? +You want to be invited to speak it?
+
+正在初始化 ...        +Initializing ...
+2.使用麦克风发言     + Use the microphone to speak
+很遗憾，您的发言申请被    拒绝了！+Unfortunately, your speech application was rejected!
+
+3.文档               + Documentation
+上传文档失败！       +Upload documents fail!
+你想要删除该文件吗？ +You want to delete this file?
+禁用画笔工具         + Disable the Brush Tool
+铅笔工具             + Pencil tool
+文本工具             + Text tool
+擦除工具             + Erase tool
+
+4.屏幕共享、系统设置、评分、抽奖等 +Screen sharing, system settings, 
+ratings, sweepstakes, etc.
+屏幕共享             +Screen Sharing
+录制视频             + Record video
+您确定要停止录制吗?  +Are you sure you want to stop recording it?
+录制已经结束了！     + Recording has ended!
+
+5.我要当主将         +I want the Lord
+您已经是主讲了！     +You have a speaker it!
+房间主讲是  您想申请当主讲吗？+Speaker is the room that you want to apply when the Speaker do?
+成为主讲后，您可以进行发言、文档翻页、画笔注记等操作。 +After becoming speaker, you can speak, the document page, brushes annotation and other operations.
+向您申请主讲身份，您同意吗？+Speaker identity to your application, you agree?
+对不起，您没有权限，不能打开文档! +Sorry, you do not have permission, you can not open the document!
+您失去了主讲身份！ +You lose the speaker identity!
+您目前不是主讲，不能处理该条请求！ +You are not the speaker, which can not handle the request!
+您没有权限使用录制功能! +You do not have permission to use the recording function!
+您没有权限，不能开启屏幕共享！ +You do not have permission, you can not turn on screen sharing!
+
+6.设置               +Set
+请允许软件访问您的设备好吗?  +Please allow software to access your device, please?
+由于您取消了操作，系统设置面板打开失败！ +Since you canceled the operation, the system settings panel failed to open!
+视频设置              +Video settings 
+高清                 + HD
+标清                 +SD
+顺畅                 +Smooth
+音频设备             +Audio Equipment
+麦克风               +Microphone
+保存设置成功，下次启用即可生效！ +Save Settings success enabled to take effect next time!
+该用户是主讲或助教，拥有比学生用户更高的操作权限。 +This user is a speaker or assistant, has operating authority higher than the student users.
+该用户有麦克风      +The user has a microphone
+该用户有摄像头      +The user has a camera
+邀请他（她）发言    +Invite him (her) statement
+用户   申请发言,您同意吗？+ Subscribe to speak, you agree?
+人在线              +Online
+请您输入文字         + Please enter text
+
+/////////////////////////                    学生端的
+申请发言       +Apply speak
+房间没有主讲，申请发言失败！   +No room speaker, failed to apply speak!
+发送成功！     +  Sent successfully!
+主讲  邀请您发言     +Speaker invites you to speak
+请允许软件访问您的设备好吗?      +Please allow software to access your device, please?		
+
+///////////表情
+OK +OK
+抱拳+Baoquan
+坏笑+Grin
+鼓掌+ +Applause
+西瓜+Watermelon
+握手+Handshake
+强+Strong
+太阳+Sun
+礼物+Gifts
+溴大了+Bromine big
+玫瑰+Rose
+饭+rice
+咖啡+Coffee
+蛋糕+Cake
+抱抱+Hug
+再见+Bye
+嘘+Hush
+疑问+Questions
+奋斗+Struggle
+大兵+Soldiers
+憨笑+Han Xiao
+流汗+Sweat
+可爱+Cute
+偷笑+Giggle
+酷+Cool
+微笑+Smile
+呲牙+Bared teeth
+害羞+Shy
+得意+Proud
+惊讶+Surprise

@@ -1,0 +1,17 @@
+import time
+
+input=open('Application.swf', 'r')
+print"正在打开".input.name
+
+timestr=time.strftime(ISOTIMEFORMAT, time.localtime())
+output=pen('bukav/'+timestr,'w')
+print"准备写入".'bukav\/'+timestr
+
+inputLines = input.readlines()
+for eachLine in inputLines
+  output.write(eachLine)
+
+print 'bukav\/'+timestr+'写入完毕！'
+
+input.close()
+output.close()

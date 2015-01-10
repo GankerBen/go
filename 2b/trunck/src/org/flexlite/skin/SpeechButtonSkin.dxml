@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dx:StateSkin xmlns:dx="http://www.flexlite.org/dxml/2012" xmlns:fs="http://www.flexlite.org/studio/2012" width="36" height="36">
+	<fs:HostComponent name="org.flexlite.domUI.components.Button"/>
+	<fs:Declarations>
+	</fs:Declarations>
+	<dx:states>
+		<dx:State name="up"/>
+		<dx:State name="over"/>
+		<dx:State name="down"/>
+		<dx:State name="disabled"/>
+	</dx:states>
+	<dx:UIAsset skinName="SWF__18677B7F" right="0" left="0" top="0" bottom="0" includeIn="over,down"/>
+	<dx:UIAsset skinName="SWF__AA0B000C" right="0" left="0" top="0" bottom="0" includeIn="up,disabled"/>
+</dx:StateSkin>
